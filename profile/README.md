@@ -11,9 +11,8 @@ El sistema se desarrolla con **React, React Native y Supabase (PostgreSQL)**, in
 
 ## 👥 Roles del Equipo
 
-- **Project Coordinator** → Franklin Bustamante 
 - **Backend & Database Engineer** → Mda  
 - **Frontend Architect & UI/UX Designer** → Franco Barrera  
- 
+- **Project Coordinator** → Franklin Bustamante 
 
 ---
