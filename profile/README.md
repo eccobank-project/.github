@@ -12,7 +12,7 @@ El sistema se desarrolla con **React, React Native y Supabase (PostgreSQL)**, in
 ## 👥 Roles del Equipo
 
 - **Backend & Database Engineer** → Mda  
-- **Frontend Architect & UI/UX Designer** → Deus  
+- **Frontend Architect & UI/UX Designer** → Deus (https://github.com/Lostovayne) 
 - **Project Coordinator** → Franklin Bustamante 
 
 ---
