@@ -16,3 +16,4 @@ El sistema se desarrolla con **React, React Native y Supabase (PostgreSQL)**, in
 - **Project Coordinator** → Franklin Bustamante 
 
 ---
+pagina web: https://eccocausa.com/
