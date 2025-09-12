@@ -1,7 +1,7 @@
-# ♻️ Proyecto Eccobank
+# ♻️ Proyecto EccoCausa
 
 ## 📖 Descripción
-Eccobank es una aplicación tecnológica integral para la **gestión del reciclaje**.  
+EccoCausa es una aplicación tecnológica integral para la **gestión del reciclaje**.  
 Su objetivo es optimizar la recolección, clasificación y aprovechamiento de residuos reciclables,  
 conectando a hogares, recolectores y centros de acopio mediante aplicaciones móviles y una plataforma web.  
 
